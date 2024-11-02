@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
-<h3 align="center">Results-driven Quality Assurance professional with 2.5 + years in IT committed to confirming proper functionality and usability of software products before release. Plans test schedules and strategies according to project scope and delivery dates and monitors and tracks bug resolutions. Reviews software documentation to verify technical accuracy and completeness and to mitigate risks.</h3>
+<h3 align="center">Perceptive QA Automation Engineer well-versed at identifying and documenting complex software problems and causes. Designs test plans and procedures and equips and trains newer colleagues. Demonstrates practiced expertise in product design and participates in design reviews to offer early input on functional requirements and potential problems..</h3>
 
-- 🌱 I’m currently learning **Java, Selenium, TestNG, API Testing, Load Testing**
-
-- 💬 Ask me about **selenium,java,Testing procedures**
+- 🌱 I’m currently learning **Java, Selenium, TestNG, Cucumber, Appium, Jmeter, Postman, Docker, Git, Shell Scripting, Jenkins, SQL, Postgres, Regression Testing, Functional Testing, Mobile App Testing**
 
 - 📫 How to reach me **ankitguptapl19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11J9lQMYYRiaqBcRRw7AjACa9sQu6GLEA/view?usp=sharing](https://drive.google.com/file/d/11J9lQMYYRiaqBcRRw7AjACa9sQu6GLEA/view?usp=sharing)
+- 📄 Know about my experiences [(https://bold.pro/my/ankit-profile)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
